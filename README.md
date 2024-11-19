@@ -47,7 +47,7 @@ I'm constantly learning and improving my skills in:
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [my_linkedin](https://www.linkedin.com/in/iskandar-kholman/)
-- **Email**: [my_email](kholmanalex@gmail.com)
+- **Email**: [my_email](mailto:kholmanalex@gmail.com)
 - **GitHub**: [my_github](https://github.com/AKholman)
 
 ---
