@@ -2,17 +2,17 @@
 
 Welcome to my GitHub profile! I am a **Data Scientist** with a PhD in **Physics** and a strong passion for **machine learning**, **data analysis**, and **predictive modeling**. Recently, I earned a **Data Science Certification** from **TripleTen**, where I gained hands-on experience in a variety of tools and technologies.
 
-My expertise spans a wide range of areas including **time series forecasting**, **natural language processing (NLP)**, and **machine learning**. I enjoy solving complex problems and turning data into actionable insights to help businesses drive decisions.
+My expertise spans a wide range of areas including **machine learning**, **time series forecasting**, and **natural language processing (NLP)**. I enjoy solving complex problems and turning data into actionable insights to help businesses drive decisions.
 
 ### 🔧 Skills & Technologies:
-- **Programming Languages**: Python, SQL, R
+- **Programming Languages**: Python, SQL
 - **Libraries & Tools**:
   - Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
-  - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau
+  - Data Visualization: Matplotlib, Seaborn, Plotly
   - Machine Learning: Regression, Classification, Time Series, Ensemble Models, Feature Engineering
   - Data Processing: Feature Engineering, EDA, Data Cleaning, Data Wrangling
   - Development: Jupyter Notebooks, Git/GitHub, VS Code, PyCharm
-- **Concepts**: Supervised & Unsupervised Learning, Model Evaluation (ROC-AUC, F1 Score, RMSE), Time Series Analysis, NLP
+- **Concepts**: Supervised & Unsupervised Learning, Model Evaluation (ROC-AUC, F1 Score, RMSE, MAE), Time Series Analysis, NLP
 
 ### 📂 Featured Projects:
 Here are some of my recent projects that showcase my skills and problem-solving abilities:
@@ -46,13 +46,9 @@ I'm constantly learning and improving my skills in:
 - **AI in Business Intelligence** for predictive analytics and automation.
 
 ### 📫 How to Reach Me:
-- **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/yourusername)
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-
-### 📂 Other Links:
-- **Portfolio**: [yourportfolio.com](https://www.yourportfolio.com) *(If you have a personal website)*
-- **Blog**: [yourblog.com](https://www.yourblog.com) *(If you have a blog or a blog section on your website)*
+- **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/iskandar-kholman/)
+- **Email**: [yourname@example.com](kholmanalex@gmail.com)
+- **GitHub**: [github.com/yourusername](https://github.com/AKholman)
 
 ---
 
