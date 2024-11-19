@@ -46,9 +46,9 @@ I'm constantly learning and improving my skills in:
 - **AI in Business Intelligence** for predictive analytics and automation.
 
 ### 📫 How to Reach Me:
-- **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/iskandar-kholman/)
-- **Email**: [yourname@example.com](kholmanalex@gmail.com)
-- **GitHub**: [github.com/yourusername](https://github.com/AKholman)
+- **LinkedIn**: [my_linkedin](https://www.linkedin.com/in/iskandar-kholman/)
+- **Email**: [my_email](kholmanalex@gmail.com)
+- **GitHub**: [my_github](https://github.com/AKholman)
 
 ---
 
