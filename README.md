@@ -1,4 +1,4 @@
-## Hello, my name is Iskandar Kholman,
+## Hello, my name is Iskandar Kholmanov,
 
 Welcome to my GitHub profile! I am a **Data Scientist** with a PhD in **Physics** and a strong passion for **machine learning**, **data analysis**, and **predictive modeling**. Recently, I earned a **Data Science Certification** from **TripleTen**, where I gained hands-on experience in a variety of tools and technologies.
 
