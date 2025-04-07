@@ -37,7 +37,7 @@ Here are some of my recent projects that showcase my skills and problem-solving 
    - **Techniques**: Convolutional Neural Networks (CNN), Data Augmentation, Keras, TensorFlow.
 
 ### 🏆 Research & Achievements:
-- **PhD in Solid State Physics** from the **Academy of Science of Uzbekistan**. My research focused on **materials science** and data analysis, resulting in over **50 peer-reviewed publications**.
+- **PhD in Physics**. My research focused on **materials science** and data analysis, resulting in over **40+ peer-reviewed publications**.
 - **Patent**: US Patent ##9477128 for **Graphene/Metal Nanowire Hybrid Transparent Conductive Films**.
   
 ### 🌱 Currently Learning:
