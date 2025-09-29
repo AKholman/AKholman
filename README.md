@@ -1,6 +1,6 @@
 ## Hello, my name is Iskandar Kholmanov,
 
-Welcome to my GitHub profile! I am a **Data Scientist** with a PhD in **Physics** and a strong passion for **machine learning**, **data analysis**, and **predictive modeling**. Recently, I earned a **Data Science Certification** from **TripleTen**, where I gained hands-on experience in a variety of tools and technologies.
+Welcome to my GitHub profile! I am a **Data Scientist/Machine Learning Engineer** with a PhD in **Physics** and hands-on experience in a variety of tools and technologies.
 
 My expertise spans a wide range of areas including **machine learning**, **time series forecasting**, and **natural language processing (NLP)**. I enjoy solving complex problems and turning data into actionable insights to help businesses drive decisions.
 
@@ -19,8 +19,9 @@ Here are some of my recent projects that showcase my skills and problem-solving 
 
 #### 1. [**Customer Churn Prediction**](https://github.com/yourusername/churn-prediction)
    - **Overview**: A binary classification project aimed at predicting customer churn for a telecom company.
-   - **Tools**: Logistic Regression, Random Forest, XGBoost, LightGBM
-   - **Metrics**: Best model achieved a **ROC-AUC score of 0.86**.
+   - **Tools**: Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost
+   - **Metrics**: Accuracy, F1 score, ROC-AUC
+   - Deployment on Render using Streamlit (https://churn-prediction-with-deployment-on.onrender.com/);
    
 #### 2. [**Time Series Forecasting of Taxi Orders**](https://github.com/yourusername/taxi-orders-forecast)
    - **Overview**: Forecasting peak hour taxi demand using time series models such as ARIMA and SARIMA.
@@ -39,11 +40,6 @@ Here are some of my recent projects that showcase my skills and problem-solving 
 ### 🏆 Research & Achievements:
 - **PhD in Physics**. My research focused on **materials science** and data analysis, resulting in over **40+ peer-reviewed publications**.
 - **Patent**: US Patent ##9477128 for **Graphene/Metal Nanowire Hybrid Transparent Conductive Films**.
-  
-### 🌱 Currently Learning:
-I'm constantly learning and improving my skills in:
-- **Deep Learning** with frameworks like **TensorFlow** and **PyTorch**.
-- **AI in Business Intelligence** for predictive analytics and automation.
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [my_linkedin](https://www.linkedin.com/in/iskandar-kholman/)
