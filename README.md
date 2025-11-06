@@ -1,6 +1,6 @@
-## Hello, my name is Iskandar Kholmanov,
+## Welcome to Iskandar Kholmanov's Github profile.
 
-Welcome to my GitHub profile! I am a **Data Scientist/Machine Learning Engineer** with a PhD in **Physics** and hands-on experience in a variety of tools and technologies.
+I am a **Data Scientist/Machine Learning Engineer** with a PhD in **Physics** and hands-on experience in a variety of tools and technologies.
 
 My expertise spans a wide range of areas including **machine learning**, **time series forecasting**, and **natural language processing (NLP)**. I enjoy solving complex problems and turning data into actionable insights to help businesses drive decisions.
 
