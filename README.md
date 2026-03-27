@@ -1,6 +1,6 @@
 ## Welcome to Iskandar Kholmanov's Github profile.
 
-I am a **Data Scientist/Machine Learning Engineer** with PhD in Physics with 8+ years of experience solving complex scientific problems and 6+ years leading a data-driven business. Hands-on expertise in Python, SQL, ML, and AI-driven modeling and LLM applications. Proven track record designing, developing, and deploying end-to-end ML/DL systems delivering predictive insights and measurable impact. Strong analytical, strategic, and cross-functional mindset. Co-author of 40+ scientific publications and a U.S. patent.
+I am a **Data Scientist/Machine Learning Engineer** with PhD in Physics, 8+ years of experience solving complex scientific problems and 6+ years leading a data-driven business. Hands-on expertise in Python, SQL, ML, and AI-driven modeling and LLM applications. Proven track record designing, developing, and deploying end-to-end ML/DL systems delivering predictive insights and measurable impact. Strong analytical, strategic, and cross-functional mindset. Co-author of 40+ scientific publications and a U.S. patent.
 
 ### 🔧 Skills & Technologies:
 
