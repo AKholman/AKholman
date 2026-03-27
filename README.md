@@ -1,41 +1,37 @@
 ## Welcome to Iskandar Kholmanov's Github profile.
 
-I am a **Data Scientist/Machine Learning Engineer** with a PhD in **Physics** and hands-on experience in a variety of tools and technologies.
-
-My expertise spans a wide range of areas including **machine learning**, **time series forecasting**, and **natural language processing (NLP)**. I enjoy solving complex problems and turning data into actionable insights to help businesses drive decisions.
+I am a **Data Scientist/Machine Learning Engineer** with PhD in Physics with 8+ years of experience solving complex scientific problems and 6+ years leading a data-driven business. Hands-on expertise in Python, SQL, ML, and AI-driven modeling and LLM applications. Proven track record designing, developing, and deploying end-to-end ML/DL systems delivering predictive insights and measurable impact. Strong analytical, strategic, and cross-functional mindset. Co-author of 40+ scientific publications and a U.S. patent.
 
 ### 🔧 Skills & Technologies:
-- **Programming Languages**: Python, SQL
-- **Libraries & Tools**:
-  - Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
-  - Data Visualization: Matplotlib, Seaborn, Plotly
-  - Machine Learning: Regression, Classification, Time Series, Ensemble Models, Feature Engineering
-  - Data Processing: Feature Engineering, EDA, Data Cleaning, Data Wrangling
-  - Development: Jupyter Notebooks, Git/GitHub, VS Code, PyCharm
-- **Concepts**: Supervised & Unsupervised Learning, Model Evaluation (ROC-AUC, F1 Score, RMSE, MAE), Time Series Analysis, NLP
+
+✦ Programming & MLOps: Python, SQL, Git, GitHub Actions (CI/CD), MLFlow, Airflow, Evidently, Streamlit, Render;
+✦ Generative AI & LLMs: NLP, LangChain, RAG, Hugging Face (Transformers), vector databases (FAISS, ChromaDB);
+✦ ML & DL: Classical ML, tree-based models, DL (PyTorch, TensorFlow), transformer models, scikit-learn, NumPy;
+✦ Statistical Analysis & Research: EDA, data visualization, A/B Testing, and Time Series Analysis, statsmodels;
+✦ Leadership & Operations: Cross-functional leadership, data-driven decision-making, operational optimization;
 
 ### 📂 Featured Projects:
 Here are some of my recent projects that showcase my skills and problem-solving abilities:
 
-#### 1. [**Customer Churn Prediction**](https://github.com/yourusername/churn-prediction)
-   - **Overview**: A binary classification project aimed at predicting customer churn for a telecom company.
-   - **Tools**: Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost
-   - **Metrics**: Accuracy, F1 score, ROC-AUC
-   - Deployment on Render using Streamlit (https://churn-prediction-with-deployment-on.onrender.com/);
-   
-#### 2. [**Time Series Forecasting of Taxi Orders**](https://github.com/yourusername/taxi-orders-forecast)
-   - **Overview**: Forecasting peak hour taxi demand using time series models such as ARIMA and SARIMA.
-   - **Metrics**: **RMSE = 48** on the test set.
-   - **Techniques**: Data decomposition (ACF, PACF), Time Series Forecasting, ARIMA/SARIMA.
+#### 1. Built & deployed an end-to-end Customer Churn Prediction System for a telecom operator by integrating four
+datasets, applying feature engineering, OHE, scaling and training multiple ML classifiers; selected XGBoost achieving
+ROC-AUC 0.91 on test data and deployed the model as a Streamlit web app on Render.
 
-#### 3. [**Sentiment Analysis of IMDB Reviews**](https://github.com/yourusername/sentiment-analysis)
-   - **Overview**: Analyzing and classifying movie reviews from IMDB using **Natural Language Processing (NLP)**.
-   - **Tools**: NLTK, TF-IDF, Logistic Regression, LightGBM
-   - **Metrics**: Best model achieved **F1=0.88**.
+#### 2. End-to-end RAG system with decoupled Hugging Face space deployment. Developed a production-ready, scalable
+LangChain RAG system using a Wikidata SPARQL ML knowledge, sentence-transformers/all-MiniLM-L6-v2
+embeddings, ChromaDB for vector retrieval, and FLAN-T5-Large for offline generation; deployed a Dockerized
+FastAPI backend and Gradio frontend on separate Hugging Face Spaces with automated (Github Actions) CI/CD
+pipelines and no external API dependencies. 
 
-#### 4. [**Building a Computer Vision Model for Age Verification**](https://github.com/yourusername/age-verification)
-   - **Overview**: A computer vision model trained to verify age for compliance with alcohol sales laws.
-   - **Techniques**: Convolutional Neural Networks (CNN), Data Augmentation, Keras, TensorFlow.
+#### 3.  NLP customer support retrieval-only semantic search: Designed and deployed a production-oriented, end-to-end,
+scalable NLP semantic search system using Sentence Transformers, FAISS, Dockerized FastAPI backend and
+Gradio frontend deployed on HF, automated CI/CD pipelines via GitHub Actions. 
+
+#### 4. Stock price forecasting. Developed a production-grade time-series ML system using PyTorch LSTM, orchestrated
+with Dockerized Airflow, tracked via MLflow, monitored with Evidently, and deployed as a Streamlit app on Render;
+Yahoo Finance data; benchmarked against SARIMA, Random Forest, XGBoost, and LSTM-Keras models. Py-
+Torch LSTM achieved 1.64% MAPE on unseen data, outperforming classical and ML baselines. 
+
 
 ### 🏆 Research & Achievements:
 - **PhD in Physics**. My research focused on **materials science** and data analysis, resulting in over **40+ peer-reviewed publications**.
@@ -43,7 +39,7 @@ Here are some of my recent projects that showcase my skills and problem-solving 
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [my_linkedin](https://www.linkedin.com/in/iskandar-kholman/)
-- **Email**: [my_email](mailto:kholmanalex@gmail.com)
+- **Email**: [my_email](mailto:iskandar.kholmanov@gmail.com)
 - **GitHub**: [my_github](https://github.com/AKholman)
 
 ---
