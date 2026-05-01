@@ -19,7 +19,7 @@ PyTorch, TensorFlow, scikit-learn, XGBoost, classical ML, deep learning, transfo
 EDA, A/B testing, time-series analysis, statistical modeling, data visualization, experimental design
 
 ✦  Leadership & Impact:   
-Cross-functional leadership, data-driven decision making, product-oriented ML, operational optimization
+Cross-functional leadership, data-driven decision making, product-oriented ML, operational optimization   
     
     
 
