@@ -22,22 +22,6 @@ EDA, A/B testing, time-series analysis, statistical modeling, data visualization
 Cross-functional leadership, data-driven decision making, product-oriented ML, operational optimization
 
 
-### 📂 Featured Projects:
-Here are some of my recent projects that showcase my skills and problem-solving abilities:
-
-#### 1. End-to-end RAG system with decoupled Hugging Face space deployment. 
-Developed a production-ready, scalable LangChain RAG system using a Wikidata SPARQL ML knowledge, sentence-transformers /all-MiniLM-L6-v2 embeddings, ChromaDB for vector retrieval, and FLAN-T5-Large for offline generation; deployed a Dockerized  FastAPI backend and Gradio frontend on separate Hugging Face Spaces with automated (Github Actions) CI/CD pipelines and no external API dependencies. 
-
-#### 2. Built an end-to-end LLM fine-tuning pipeline (Mistral-7B + LoRA/PEFT) 
-using Google Colab (T4 GPU) for efficient training and experimentation. Created instruction-tuning datasets (system/user/assistant format) using Amazon reviews, synthetic Q&A, and product metadata. Deployed a 4-bit quantized inference pipeline (QLoRA) with FastAPI, exposed via ngrok for real-time chat. Analyzed model behavior and identified dataset-scale and instruction-alignment limits affecting LoRA performance.
-
-#### 3. Stock price forecasting. 
-Developed a production-grade time-series ML system using PyTorch LSTM, orchestrated  with Dockerized Airflow, tracked via MLflow, monitored with Evidently, and deployed as a Streamlit app on Ren der; Yahoo Finance data; benchmarked against SARIMA, Random Forest, XGBoost, and LSTM-Keras models. Py Torch LSTM achieved 1.64% MAPE on unseen data, outperforming classical and ML baselines. | Github | | Render |
-
-#### 4. Real-time credit card fraud detection system.
-Built a production-style, end-to-end ML pipeline for highly imbalanced classification using XGBoost (CPU). Performed Spark/SQL-based preprocessing in Databricks, trained and validated models on AWS EC2 (free tier), and stored versioned artifacts in S3. Deployed a serverless, low-latency inference service using AWS Lambda (container image) and API Gateway, and exposed a Streamlit UI for real-time predictions and monitoring. Achieved ROC-AUC 0.997, precision 0.89, and recall 0.97 on held-out data.
-
-
 ### 🚀 Featured Projects (Production ML & GenAI Systems)
 
 #### 1️⃣ End-to-End RAG System (Decoupled HF Deployment)
