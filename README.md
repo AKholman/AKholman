@@ -20,9 +20,9 @@ EDA, A/B testing, time-series analysis, statistical modeling, data visualization
 
 ✦  Leadership & Impact:
 Cross-functional leadership, data-driven decision making, product-oriented ML, operational optimization
-
-
-
+    
+    
+    
 ### 🚀 Featured Projects (Production ML & GenAI Systems)
 
 #### 1️⃣ End-to-End RAG System (Decoupled HF Deployment)
