@@ -6,19 +6,19 @@ Co-author of 40+ peer-reviewed publications and U.S. patent holder.
 
 ### 🔧 Skills & Technologies:
 
-✦  Programming, MLOps & Cloud: 
+✦  Programming, MLOps & Cloud:   
 Python, SQL, Git, Docker, CI/CD (GitHub Actions), AWS (EC2, S3, Lambda, API Gateway), serverless ML, model serving, MLflow, Airflow, Evidently, cloud-native deployment
 
-✦  GenAI & LLM Systems:
+✦  GenAI & LLM Systems:   
 LLM fine-tuning (LoRA / PEFT / QLoRA), Retrieval-Augmented Generation (RAG), LangChain, Hugging Face, vector databases (FAISS, ChromaDB), semantic search, offline & API-free inference
 
-✦  Machine Learning & Deep Learning:
+✦  Machine Learning & Deep Learning:    
 PyTorch, TensorFlow, scikit-learn, XGBoost, classical ML, deep learning, transformers, time-series modeling
 
-✦  Statistics, Analytics & Research:
+✦  Statistics, Analytics & Research:   
 EDA, A/B testing, time-series analysis, statistical modeling, data visualization, experimental design
 
-✦  Leadership & Impact:
+✦  Leadership & Impact:   
 Cross-functional leadership, data-driven decision making, product-oriented ML, operational optimization
     
     
