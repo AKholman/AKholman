@@ -37,10 +37,10 @@ Tech: LangChain, HF, FastAPI, Docker, CI/CD, VectorDB
 Designed and executed an end-to-end LLM fine-tuning pipeline using Mistral-7B with LoRA/PEFT on Google Colab (T4 GPU). Built instruction-tuning datasets (system/user/assistant format) from Amazon reviews, synthetic Q&A, and product metadata. Deployed a 4-bit quantized (QLoRA) inference service with FastAPI and real-time chat access via ngrok. Analyzed model behavior and identified dataset scale and instruction-alignment limits affecting LoRA performance.
 Tech: PyTorch, Transformers, PEFT, FastAPI, Quantization
 
-#### 3️⃣ Production Time-Series Forecasting Platform
+#### 3️⃣ Production Time-Series Stock Forecasting Platform
 
-Developed a production-grade time-series ML system for stock price forecasting using PyTorch LSTM, orchestrated with Dockerized Airflow, tracked via MLflow, and monitored with Evidently. Deployed as a Streamlit application on Render using Yahoo Finance data. Benchmarked against SARIMA, Random Forest, XGBoost, and LSTM-Keras, achieving 1.64% MAPE on unseen data, outperforming classical and ML baselines.
-Tech: PyTorch, Airflow, MLflow, Evidently, Streamlit
+Stock Price Forecasting. Built a production-grade time-series ML system using PyTorch LSTM, orchestrated with Dockerized Airflow, tracked via MLflow, monitored with Evidently, and deployed on Streamlit Cloud for live inference; ingested Yahoo Finance data; benchmarked against SARIMA, Random Forest, XGBoost, and LSTM-Keras models. The PyTorch LSTM achieved 1.64% MAPE on unseen data, outperforming all baselines
+Tech: PyTorch, Airflow, MLflow, Evidently, Streamlit Cloud
 
 #### 4️⃣ Real-Time Fraud Detection (Serverless ML on AWS)
 
