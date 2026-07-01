@@ -27,10 +27,13 @@ Cross-functional leadership, data-driven decision making, product-oriented ML, o
     
 ### 🚀 Featured Projects (Production ML & GenAI Systems)
 
-#### 1️⃣ End-to-End RAG System (Decoupled HF Deployment)
+#### 1️⃣ Production RAG System with Cloud Observability & Cost-Aware LLM Serving
 
-Built a production-ready, scalable LangChain-based RAG system using a Wikidata SPARQL ML knowledge source, sentence-transformers (all-MiniLM-L6-v2) embeddings, ChromaDB for vector retrieval, and FLAN-T5-Large for offline generation. Deployed a Dockerized FastAPI backend and Gradio frontend on separate Hugging Face Spaces with automated CI/CD via GitHub Actions, enabling fully self-hosted inference with no external API dependencies.
-Tech: LangChain, HF, FastAPI, Docker, CI/CD, VectorDB
+Built an end-to-end RAG pipeline using sentence-transformers (MiniLM), FAISS-based retrieval, and Groq-hosted LLaMA-3.1-8B for generation;
+implemented decoupled Colab→AWS architecture (S3 + EC2) with FastAPI serving layer and CloudWatch-based observability including structured 
+logging, latency decomposition (embedding/FAISS/LLM), token usage tracking, and p95 latency analysis; generated 60+ request tests to validate 
+system stability and production-level monitoring.
+Tech: Python, Sentence-Transformers, FAISS, FastAPI, AWS EC2, S3, CloudWatch, Groq LLM Links:
 
 #### 2️⃣ LLM Fine-Tuning & Inference (Mistral-7B + LoRA / QLoRA)
 
@@ -56,6 +59,7 @@ Tech: XGBoost, AWS Lambda, API Gateway, Databricks, Serverless ML
 - **LinkedIn**: [my_linkedin](https://www.linkedin.com/in/iskandar-kholman/)
 - **Email**: [my_email](mailto:iskandar.kholmanov@gmail.com)
 - **GitHub**: [my_github](https://github.com/AKholman)
+- **Google Scholar**: [my_publications](https://scholar.google.com/citations?user=1izRwqsAAAAJ&hl=en)
 
 ---
 
